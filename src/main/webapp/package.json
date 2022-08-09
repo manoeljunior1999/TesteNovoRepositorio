@@ -1,0 +1,19 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cordova-plugin-cronapp": "^2.8.6",
+    "cronapi-js": "^2.8.32",
+    "cronapp-common-js": "^2.8.15",
+    "cronapp-framework-js": "^2.8.54",
+    "cronapp-lib-js": "^2.8.8"
+  }
+}
